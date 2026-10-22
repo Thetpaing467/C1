@@ -1,12 +1,10 @@
-streamlit>=1.40
+streamlit
 faster-whisper
-av==18.0.0
-numpy
-pandas
-pillow
-opencv-python-headless
 edge-tts
 gradio_client
 yt-dlp
 gdown
+opencv-python-headless
+numpy
+Pillow
 requests
