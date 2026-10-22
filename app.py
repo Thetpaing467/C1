@@ -13,7 +13,6 @@ import tempfile
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
-
 import cv2
 import numpy as np
 import streamlit as st
